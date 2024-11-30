@@ -1,4 +1,4 @@
-# Automatizované testování databáze pomocí knihovny requests
+## Automatizované testování databáze pomocí knihovny requests
 Testování REST-API pomocí funkcí GET, POST, DELETE
 
 ### Nástroje
